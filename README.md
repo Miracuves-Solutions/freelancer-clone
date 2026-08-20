@@ -2,10 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxlancer.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/freelancer-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/freelancer-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/freelancer-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/freelancer-clone/#features)
 
-**MXLancer** is a production-ready, white-label Freelancer clone: a complete white-label platform — delivered with **100% source code ownership** in **6 working days**.
+**mxlancer** is a production-ready, white-label Freelancer clone: a complete multi-vertical marketplace platform with all the features that scaling requires — delivered with **100% source code ownership** in **6 working days**.
 
 > 🧑💻 **See it running before you talk to anyone.** Live buyer app, seller dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/freelancer-clone#demo). No sales call required.
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/freelancer-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/freelancer-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom freelance platforms run $80k–$400k and 5–10 months. A proven white-la
 ## 📚 Resources
 
 - 📖 [Freelancer Clone — Full Solution Page](https://miracuves.com/freelancer-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Freelance App Cost in 2026?](https://miracuves.com/freelancer-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Freelancer Clone Script in 2026](https://miracuves.com/freelancer-clone/blog/) features, pricing & launch guide
-- 🧠 [Milestone Escrow: The Backbone of Trust](https://miracuves.com/freelancer-clone/blog/) how escrow + milestones unlock GMV
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/freelancer-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Freelance App Cost in 2026?](https://miracuves.com/freelancer-clone#features) pricing breakdown & what's included
+- 📝 [Best Freelancer Clone Script in 2026](https://miracuves.com/freelancer-clone#features) features, pricing & launch guide
+- 🧠 [Milestone Escrow: The Backbone of Trust](https://miracuves.com/freelancer-clone#features) how escrow + milestones unlock GMV
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/freelancer-clone#faq) every claim we make, verified
+- 💻 [Freelancer Clone — Technical Stack](https://miracuves.com/freelancer-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Freelancer Clone — How It Works / User Flow](https://miracuves.com/freelancer-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom freelance platforms run $80k–$400k and 5–10 months. A proven white-la
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/freelancer-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/freelancer-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: freelancer clone, freelancer clone script, freelance marketplace, gig economy, white label freelance, escrow payments, Flutter freelance app, Node.js marketplace*
 
@@ -106,7 +108,7 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Freelancer Clone
-{MX_NAME}         MXLancer
+{MX_NAME}         mxlancer
 {CATEGORY}        Freelance & Marketplace Platform
 {DEMO_WEB}        mxlancer.mimeld.com
 {PRICE}           $2,899
